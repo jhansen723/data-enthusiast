@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Joel Hansen
 
 You can use the [editor on GitHub](https://github.com/jhansen723/data-enthusiast/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
